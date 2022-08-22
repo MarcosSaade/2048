@@ -1,5 +1,5 @@
 2048
 
-Free to use, modify, download, or whatever you want
+Free to use, modify, and download.
 
 Based on https://play2048.co/
